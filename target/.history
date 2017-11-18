@@ -1,0 +1,2 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml
+all {file:/home/mixax256/fibonacci-api/}root/products {file:/home/mixax256/fibonacci-api/}root/test:products

@@ -1,0 +1,2 @@
+[0m[[0m[31merror[0m] [0m[0m/home/mixax256/fibonacci-api/test/controllers/FibonacciNumbersControllerTest.java:58:1:  java.lang.String cannot be converted to java.lang.Integer[][0m
+[0m[[0m[31merror[0m] [0m[0m        requestResult = jsonNode.get( "body" ).asText();[0m
